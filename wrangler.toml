@@ -8,10 +8,10 @@ compatibility_date = "2023-05-26"
 pattern = "ava.game.naver.com.sg1.tokhas.xyz"
 custom_domain = true
 [[routes]]
-pattern = "graph.instagram.com.sg1.tokhas.xyz"
+pattern = "graph.instagram.com.sg2.tokhas.xyz"
 custom_domain = true
 [[routes]]
-pattern = "bazo.dk.sg1.tokhas.xyz"
+pattern = "bazo.dk.sg3.tokhas.xyz"
 custom_domain = true
 
 [vars]
