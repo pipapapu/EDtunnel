@@ -8,7 +8,10 @@ compatibility_date = "2023-05-26"
 pattern = "investors.spotify.com.sg1.tokhas.xyz"
 custom_domain = true
 [[routes]]
-pattern = "support.zoom.us.sg2.tokhas.xyz"
+pattern = "graph.instagram.com.sg2.tokhas.xyz"
+custom_domain = true
+[[routes]]
+pattern = "sg1.tokhas.xyz"
 custom_domain = true
 
 [vars]
